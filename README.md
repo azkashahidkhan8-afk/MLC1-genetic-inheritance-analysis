@@ -8,4 +8,4 @@ This repository hosts the data structure frameworks and project documentation fo
 ## 📈 Professional Experience Highlights
 * **Climate Change Research Intern** | Chief Minister's Office, Punjab (3 Months)
 * **Academic Tutor** | Biological Sciences & Chemistry (1 Year)
-* **Data Analytics Simulation** | Completed via Deloitte Australia (Forage)
+* **Corporate Data Analytics Simulation** | Completed via [Deloitte Australia Portfolio](https://github.com)
