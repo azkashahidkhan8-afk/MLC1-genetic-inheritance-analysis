@@ -1,0 +1,5 @@
+Family_ID,Patient_ID,Target_Gene,Chromosome_Locus,Exon_Tested,Primer_Pair_Used,Sanger_Sequencing_Result,Phenotypic_Classification
+PKID0139,IV-1,MLC1,22q13.33,Exon 3,Exon3_F/Exon3_R,Negative (Wild-Type),Non-Syndromic Intellectual Disability
+PKID0139,IV-3,MLC1,22q13.33,Exon 3,Exon3_F/Exon3_R,Negative (Wild-Type),Non-Syndromic Intellectual Disability
+PKID0140,IV-2,MLC1,22q13.33,Exon 3,Exon3_F/Exon3_R,Negative (Wild-Type),Non-Syndromic Intellectual Disability
+PKID0140,IV-8,MLC1,22q13.33,Exon 3,Exon3_F/Exon3_R,Negative (Wild-Type),Non-Syndromic Intellectual Disability
